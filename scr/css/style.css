@@ -18,7 +18,7 @@ img{
 }
 
 .continer{
-	max-width: 1920px;
+	max-width: auto;
 	width: 100%;
 	margin:0 auto;
 }
@@ -28,9 +28,8 @@ header{
 }
 
 .pic1{
-    width: 200px;
-    height: 200px;
-
+    width: 100px;
+    height: 100px;
 }
 
 section div img{
@@ -40,24 +39,24 @@ section div img{
 }
 
 .pic2{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 .pic3{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 .pic4{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
 }
 
 .headerClass {
     display: inline-block;
-    padding: 20px;
-    width: 20%;
+    padding: 5%;
+    width: auto;
     display: inline-block;
     background-color: rgb(127, 164, 152);
     color: rgb(229, 236, 226);
